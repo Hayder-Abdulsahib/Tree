@@ -63,7 +63,7 @@ while (childName.toUpperCase() !== "DONE") {
 
 }
 
-root.traverse(); //why
+root.traverse();
 
 
 
